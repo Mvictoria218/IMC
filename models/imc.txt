@@ -1,0 +1,2 @@
+alguem;67;1.57;27.18;Sobrepeso
+fulano;78;1.8;24.07;Peso normal
